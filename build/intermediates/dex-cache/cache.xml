@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\HideSeek\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\HideSeek\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_800de4270d470cd4b61a03eeee4e13c985c405a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HideSeek\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\HideSeek\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b362f36fc4cbc26b3658424483927ce63224b382\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HideSeek\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\HideSeek\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_cc9ccab028071ef38cc2f8420b1d31e249dd49a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HideSeek\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\HideSeek\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_1850dd19dc6967452129fe752509da45a300cf21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HideSeek\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\HideSeek\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ae91f2933b5b1ed6714246434069d01eb6f154fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HideSeek\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\HideSeek\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_9b3e74202bc0609b966e97dc50d2fc6cfe89e2ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HideSeek\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\HideSeek\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_be713a437e1f6e2188deb97eacc2b4d694d5e407\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HideSeek\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\HideSeek\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_0a9af364fcd51ace95c67a9cd2c350db6f892d47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HideSeek\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2ead295c410796cbac1d4a71c55856971e50513d">
+        <dex dex="E:\HideSeek\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b8b16a8ac1847fc233e0e2306caf9642a8f79d0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HideSeek\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\HideSeek\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_961ed73fd0e01eb2729f1e31c1d3949822a4c263\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HideSeek\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\HideSeek\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_5f0a91fc2d7b2f5f5c0e011d4d0779b034bfd016\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HideSeek\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\HideSeek\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8a6c445c8f873bb963f1485d326982aa5a246734\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HideSeek\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\HideSeek\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_6b8f262cf8ec3ff51004e3e585342d78f6324458\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HideSeek\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\HideSeek\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_b09017832375d78aa189b21be441ef18887eebc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\maknid\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\HideSeek\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_cde561747bd7db85c7c64e591c207521dc79deb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HideSeek\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\HideSeek\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_4bbcb1c024c4ef6607950b7bca35183e67a20713\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HideSeek\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="16a1e9cce2faa5ab4f458b4aac2f258c6236cfd1">
+        <dex dex="E:\HideSeek\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_23eebbd773b0b775291e67c98c0e0aae81815589\classes.dex" />
+    </item>
+
+</items>
